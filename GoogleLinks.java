@@ -1,4 +1,3 @@
-package computer.technology.interview;
 
 import java.util.List;
 
